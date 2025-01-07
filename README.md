@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Day 19: 100 Days of Python
 
 This project is a fun and interactive **Turtle Race Game** created as part of Day 19 in the "100 Days of Python" course. The game demonstrates the use of the `turtle` module for graphics and user interaction.
